@@ -8,3 +8,4 @@ TO DO:
 - learn python core
 - learn git
 - learn django
+- learn SQL
